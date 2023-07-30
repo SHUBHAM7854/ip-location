@@ -28,6 +28,6 @@ Run program
 
 ```bash
   go build
-  ./iptracker trace {{ip_address}}
+  ./iptracker trace {{ip_address,DNS_Domain}}
 ```
 
