@@ -31,3 +31,8 @@ Run program
   ./iptracker trace {{ip_address,DNS_Domain}}
 ```
 
+```bash
+  watch a demo
+  https://github.com/SubhamMurarka/ip-location/assets/108292932/3726802d-8ca2-4f64-9c8e-fb2530dbfa32
+```
+
